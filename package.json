@@ -1,0 +1,47 @@
+{
+  "name": "ncontrol",
+  "version": "0.0.1",
+  "description": "nControl is a fullstack skeleton",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "angularjs",
+    "basecamp",
+    "REST api",
+    "REST",
+    "CRUD",
+    "api",
+    "CRUD api",
+    "RESTful CRUD api"
+  ],
+  "author": "Joey Grable",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "file-system": "^2.2.2",
+    "http": "0.0.0",
+    "method-override": "^2.3.10",
+    "mongodb": "^3.0.1",
+    "mongoose": "^5.0.0",
+    "multer": "^1.3.0",
+    "nodemon": "^1.14.7",
+    "path": "^0.12.7",
+    "serve-favicon": "^2.4.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeygrable94/nControl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joeygrable94/nControl/issues"
+  },
+  "homepage": "https://github.com/joeygrable94/nControl#readme"
+}
